@@ -1,0 +1,4 @@
+#Sun Feb 13 17:42:08 AST 2022
+base.0=E\:\\flutter\\flutter_local_notification\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
